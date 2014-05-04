@@ -45,7 +45,3 @@ class TicTacToe
 	end
 end
 
-game = TicTacToe.new 2, 3 				#=> 2 players, 3x3 board
-game.game_loop
-
-
